@@ -11,6 +11,7 @@ public class Main {
             System.out.println(new Date());
         }
 
+
     }
 
     private static void f1(String gg) {
