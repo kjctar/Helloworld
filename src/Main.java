@@ -9,6 +9,7 @@ public class Main {
         System.out.println();
         for (int i = 0; i < 100; i++) {
             System.out.println(new Date());
+
         }
 
 
